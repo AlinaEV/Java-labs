@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="nl.jqno.equalsverifier:equalsverifier:2.1.6" type="repository">
+    <properties maven-id="nl.jqno.equalsverifier:equalsverifier:2.1.6" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/equalsverifier-2.1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
